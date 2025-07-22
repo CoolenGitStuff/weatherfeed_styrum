@@ -1,5 +1,8 @@
 name: Generate Weather Calendar
 
+permissions:
+  contents: write
+  
 on:
   schedule:
     - cron:  '0 * * * *'  # Jeden vollen Stunde ausführen (UTC!)
