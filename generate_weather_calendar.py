@@ -23,21 +23,21 @@ def map_weather_code_to_icon(code: int) -> str:
     if code == 0:
         return "🌞"  # sonnig
     elif code in {1, 2, 3}:
-        return "🌤"  # leicht bewölkt
+        return "⛅"  # leicht bewölkt
     elif code in {45, 48}:
         return "🌁"  # neblig
     elif code in {51, 53, 55, 56, 57}:
-        return "🌦"  # Nieselregen
+        return "🌧️"  # Nieselregen
     elif code in {61, 63, 65, 80, 81, 82}:
-        return "🌧"  # regnerisch
+        return "🌧️"  # regnerisch
     elif code in {66, 67}:
-        return "🌧"  # gefrierender Regen (ersatzweise)
+        return "🌧️❄️"  # gefrierender Regen (ersatzweise)
     elif code in {71, 73, 75, 77, 85, 86}:
-        return "🌨"  # schneit
+        return "🌨️"  # schneit
     elif code == 95:
-        return "⛈"  # Gewitter
+        return "⛈️"  # Gewitter
     elif code in {96, 99}:
-        return "🌩"  # Gewitter mit Hagel
+        return "🌩️❄️"  # Gewitter mit Hagel
     else:
         return "❔"  # unbekannt
 
