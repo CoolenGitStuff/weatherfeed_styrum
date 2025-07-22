@@ -1,0 +1,36 @@
+name: Generate Weather Calendar
+
+on:
+  schedule:
+    - cron:  '0 * * * *'  # Jeden vollen Stunde ausführen (UTC!)
+  workflow_dispatch:  # Optional: manuell triggern können
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run script to generate ICS file
+        run: |
+          python3 generate_weather_calendar.py \
+            --lat 51.45126 \
+            --lon 6.86418 \
+            --days 3 \
+            --timezone Europe/Berlin \
+            --hours 24 \
+            --out styrum_weather.ics
+
+      - name: Commit updated ICS
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add styrum_weather.ics
+          git commit -m "Update ICS feed"
+          git push
