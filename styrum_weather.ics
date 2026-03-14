@@ -6,128 +6,128 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:20260314T050000-5@open-meteo
-DTSTAMP:20260313T232411Z
+DTSTAMP:20260314T014557Z
 DTSTART;TZID=Europe/Berlin:20260314T050000
 DTEND;TZID=Europe/Berlin:20260314T060000
-SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️4.2°C - ☔ 96% / 0.4mm - ⛱️ 0 UV
+SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️4.5°C - ☔ 77% / 0.2mm - ⛱️ 0 UV
 END:VEVENT
 BEGIN:VEVENT
 UID:20260314T060000-6@open-meteo
-DTSTAMP:20260313T232411Z
+DTSTAMP:20260314T014557Z
 DTSTART;TZID=Europe/Berlin:20260314T060000
 DTEND;TZID=Europe/Berlin:20260314T070000
-SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️4°C - ☔ 96% / 0.6mm - ⛱️ 0 UV
+SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️4.4°C - ☔ 85% / 0.5mm - ⛱️ 0 UV
 END:VEVENT
 BEGIN:VEVENT
 UID:20260314T070000-7@open-meteo
-DTSTAMP:20260313T232411Z
+DTSTAMP:20260314T014557Z
 DTSTART;TZID=Europe/Berlin:20260314T070000
 DTEND;TZID=Europe/Berlin:20260314T080000
-SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️3.9°C - ☔ 96% / 0.7mm - ⛱️ 0 UV
+SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️4.3°C - ☔ 92% / 0.7mm - ⛱️ 0 UV
 END:VEVENT
 BEGIN:VEVENT
 UID:20260314T080000-8@open-meteo
-DTSTAMP:20260313T232411Z
+DTSTAMP:20260314T014557Z
 DTSTART;TZID=Europe/Berlin:20260314T080000
 DTEND;TZID=Europe/Berlin:20260314T090000
-SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️3.5°C - ☔ 95% / 0.9mm - ⛱️ 0.1 UV
+SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️4°C - ☔ 95% / 0.6mm - ⛱️ 0 UV
 END:VEVENT
 BEGIN:VEVENT
 UID:20260314T090000-9@open-meteo
-DTSTAMP:20260313T232411Z
+DTSTAMP:20260314T014557Z
 DTSTART;TZID=Europe/Berlin:20260314T090000
 DTEND;TZID=Europe/Berlin:20260314T100000
-SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️3.2°C - ☔ 93% / 0.8mm - ⛱️ 0.1 UV
+SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️3.8°C - ☔ 97% / 0.6mm - ⛱️ 0.1 UV
 END:VEVENT
 BEGIN:VEVENT
 UID:20260314T100000-10@open-meteo
-DTSTAMP:20260313T232411Z
+DTSTAMP:20260314T014557Z
 DTSTART;TZID=Europe/Berlin:20260314T100000
 DTEND;TZID=Europe/Berlin:20260314T110000
-SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️3.6°C - ☔ 92% / 0.2mm - ⛱️ 0.2 UV
+SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️3.7°C - ☔ 98% / 0.5mm - ⛱️ 0.1 UV
 END:VEVENT
 BEGIN:VEVENT
 UID:20260314T110000-11@open-meteo
-DTSTAMP:20260313T232411Z
+DTSTAMP:20260314T014557Z
 DTSTART;TZID=Europe/Berlin:20260314T110000
 DTEND;TZID=Europe/Berlin:20260314T120000
-SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️3.9°C - ☔ 91% / 0.5mm - ⛱️ 0.2 UV
+SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️3.8°C - ☔ 99% / 0.4mm - ⛱️ 0.1 UV
 END:VEVENT
 BEGIN:VEVENT
 UID:20260314T120000-12@open-meteo
-DTSTAMP:20260313T232411Z
+DTSTAMP:20260314T014557Z
 DTSTART;TZID=Europe/Berlin:20260314T120000
 DTEND;TZID=Europe/Berlin:20260314T130000
-SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️4.5°C - ☔ 90% / 0.3mm - ⛱️ 0.2 UV
+SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️4.1°C - ☔ 99% / 0.5mm - ⛱️ 0.3 UV
 END:VEVENT
 BEGIN:VEVENT
 UID:20260314T130000-13@open-meteo
-DTSTAMP:20260313T232411Z
+DTSTAMP:20260314T014557Z
 DTSTART;TZID=Europe/Berlin:20260314T130000
 DTEND;TZID=Europe/Berlin:20260314T140000
-SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️4.1°C - ☔ 88% / 0.3mm - ⛱️ 0.2 UV
+SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️4.3°C - ☔ 98% / 1mm - ⛱️ 0.3 UV
 END:VEVENT
 BEGIN:VEVENT
 UID:20260314T140000-14@open-meteo
-DTSTAMP:20260313T232411Z
+DTSTAMP:20260314T014557Z
 DTSTART;TZID=Europe/Berlin:20260314T140000
 DTEND;TZID=Europe/Berlin:20260314T150000
-SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️3.6°C - ☔ 82% / 0.2mm - ⛱️ 0.3 UV
+SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️4°C - ☔ 94% / 0.6mm - ⛱️ 0.3 UV
 END:VEVENT
 BEGIN:VEVENT
 UID:20260314T150000-15@open-meteo
-DTSTAMP:20260313T232411Z
+DTSTAMP:20260314T014557Z
 DTSTART;TZID=Europe/Berlin:20260314T150000
 DTEND;TZID=Europe/Berlin:20260314T160000
-SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️3.9°C - ☔ 74% / 0.1mm - ⛱️ 0.2 UV
+SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️4.5°C - ☔ 87% / 0.3mm - ⛱️ 0.3 UV
 END:VEVENT
 BEGIN:VEVENT
 UID:20260314T160000-16@open-meteo
-DTSTAMP:20260313T232411Z
+DTSTAMP:20260314T014557Z
 DTSTART;TZID=Europe/Berlin:20260314T160000
 DTEND;TZID=Europe/Berlin:20260314T170000
-SUMMARY:➡️5/10 ⛅: bewölkt - 🌡️4.8°C - ☔ 69% / 0mm - ⛱️ 0.1 UV
+SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️4.9°C - ☔ 82% / 0.1mm - ⛱️ 0.2 UV
 END:VEVENT
 BEGIN:VEVENT
 UID:20260314T170000-17@open-meteo
-DTSTAMP:20260313T232411Z
+DTSTAMP:20260314T014557Z
 DTSTART;TZID=Europe/Berlin:20260314T170000
 DTEND;TZID=Europe/Berlin:20260314T180000
-SUMMARY:➡️5/10 ⛅: bewölkt - 🌡️5.5°C - ☔ 70% / 0mm - ⛱️ 0.1 UV
+SUMMARY:➡️5/10 ⛅: bewölkt - 🌡️5.3°C - ☔ 81% / 0mm - ⛱️ 0.2 UV
 END:VEVENT
 BEGIN:VEVENT
 UID:20260314T180000-18@open-meteo
-DTSTAMP:20260313T232411Z
+DTSTAMP:20260314T014557Z
 DTSTART;TZID=Europe/Berlin:20260314T180000
 DTEND;TZID=Europe/Berlin:20260314T190000
-SUMMARY:➡️5/10 ⛅: bewölkt - 🌡️5.7°C - ☔ 74% / 0mm - ⛱️ 0.1 UV
+SUMMARY:➡️5/10 ⛅: bewölkt - 🌡️5.3°C - ☔ 81% / 0mm - ⛱️ 0.1 UV
 END:VEVENT
 BEGIN:VEVENT
 UID:20260314T190000-19@open-meteo
-DTSTAMP:20260313T232411Z
+DTSTAMP:20260314T014557Z
 DTSTART;TZID=Europe/Berlin:20260314T190000
 DTEND;TZID=Europe/Berlin:20260314T200000
-SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️5.3°C - ☔ 71% / 0.1mm - ⛱️ 0 UV
+SUMMARY:➡️5/10 ⛅: bewölkt - 🌡️4.8°C - ☔ 75% / 0mm - ⛱️ 0.1 UV
 END:VEVENT
 BEGIN:VEVENT
 UID:20260314T200000-20@open-meteo
-DTSTAMP:20260313T232411Z
+DTSTAMP:20260314T014557Z
 DTSTART;TZID=Europe/Berlin:20260314T200000
 DTEND;TZID=Europe/Berlin:20260314T210000
-SUMMARY:➡️5/10 ⛅: bewölkt - 🌡️5.3°C - ☔ 55% / 0mm - ⛱️ 0 UV
+SUMMARY:➡️5/10 🌞: sonnig - 🌡️4.7°C - ☔ 59% / 0mm - ⛱️ 0 UV
 END:VEVENT
 BEGIN:VEVENT
 UID:20260314T210000-21@open-meteo
-DTSTAMP:20260313T232411Z
+DTSTAMP:20260314T014557Z
 DTSTART;TZID=Europe/Berlin:20260314T210000
 DTEND;TZID=Europe/Berlin:20260314T220000
-SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️5.5°C - ☔ 34% / 0.2mm - ⛱️ 0 UV
+SUMMARY:➡️5/10 🌧️: regnerisch - 🌡️4.6°C - ☔ 37% / 1.9mm - ⛱️ 0 UV
 END:VEVENT
 BEGIN:VEVENT
 UID:20260314T220000-22@open-meteo
-DTSTAMP:20260313T232411Z
+DTSTAMP:20260314T014557Z
 DTSTART;TZID=Europe/Berlin:20260314T220000
 DTEND;TZID=Europe/Berlin:20260314T230000
-SUMMARY:🔝9/10 ⛅: bewölkt - 🌡️4.9°C - ☔ 16% / 0mm - ⛱️ 0 UV
+SUMMARY:➡️5/10 🌧️: Nieselregen - 🌡️4.6°C - ☔ 20% / 0.1mm - ⛱️ 0 UV
 END:VEVENT
 END:VCALENDAR
